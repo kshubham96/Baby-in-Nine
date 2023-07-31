@@ -1,0 +1,98 @@
+patient_id,date_of_birth,medical_condition,co_morbidity,ethnicity,risk_factor,lmp,cycle_length,edd,number_of_babies,other checks,infection_history,infection_history,past_medical_history,past_medical_history,past_medical_history,past_medical_history,past_medical_history,past_medical_history,pastPregnancy,parity,living,gravida,ectopics,has_risk,premature,ab_induce,b_spont,multiple_births
+6,30/01/1990,POSTPARTUM,diabetes,Mixed,LOW,1/6/2022,28,8/3/2023,1,,,,diabetes,,,,,,,1,1,1,,No,,,,
+7,22/10/1986,POSTPARTUM,obesity,Non Hispanic White,LOW,13/07/2021,28,19/04/2022,1,RHNegative,hep_b,chicken_pox,Covid,obesity,drug_allergy_list,advanced_maternal_age,,,,3,3,4,,No,1,,1,
+8,5/7/1982,PREGNANCY,obesity,Hispanic and Latino,MEDIUM,23/07/2021,28,29/04/2022,1,,gen_herp,chicken_pox,obesity,diabetes,hepatitis_liver_disease,history_of_abnormal_pap,,,,0,,1,,Yes,,,,
+9,6/12/1983,PREGNANCY,,Non Hispanic White,LOW,20/10/2021,28,27/07/2022,1,chk_ntd,,,diabetes,allergies,psychiatric,drug_allergy_list,,,,0,,2,,Yes,,,1,
+13,16/03/1996,POSTPARTUM,obesity,Hispanic and Latino,MEDIUM,30/09/2021,28,7/7/2022,1,,chicken_pox,,obesity,,,,,,,1,1,1,,Yes,,,,
+14,9/2/1984,POSTPARTUM,obesity,Black or African,MEDIUM,8/12/2021,28,14/09/2022,1,,chicken_pox,history_std,obesity,hypertension,history_of_abnormal_pap,,,,,4,4,5,,Yes,1,,,1
+15,10/2/1990,PREGNANCY,obesity,Hispanic and Latino,MEDIUM,31/07/2021,28,7/5/2022,1,,chicken_pox,,obesity,,,,,,,1,,1,,Yes,,,,
+16,3/10/2002,PREGNANCY,,Hispanic and Latino,LOW,1/2/2022,28,8/11/2022,1,,,,other_past_medical_history,,,,,,,0,,1,,No,,,,
+17,11/6/1996,POSTPARTUM,,,HIGH,9/8/2021,28,16/05/2022,1,,,,obesity,diabetes,hypertension,,,,,1,1,1,,Yes,,,,
+18,31/10/1995,POSTPARTUM,,Black or African,MEDIUM,3/8/2021,28,10/5/2022,1,,,,,,,,,,,2,2,2,,No,,,,
+19,22/11/1989,POSTPARTUM,obesity,Black or African,MEDIUM,28/07/2021,28,4/5/2022,1,,,,,,,,,,,1,1,1,,No,,,,
+20,30/10/1988,PREGNANCY,obesity,Non Hispanic White,LOW,5/11/2021,28,12/8/2022,1,,,,,,,,,,,1,,5,,No,,,,
+21,25/03/1986,POSTPARTUM,obesity,Hispanic and Latino,HIGH,23/10/2021,28,30/07/2022,1,,,,obesity,hypertension,,,,,,1,1,1,,No,,,,
+22,11/7/1986,PREGNANCY,,Asian,MEDIUM,28/10/2021,28,4/8/2022,1,,,,thyroid,other_past_medical_history,,,,,,0,,1,,No,,,,
+23,31/05/1999,POSTPARTUM,,Non Hispanic White,MEDIUM,20/08/2021,28,27/05/2022,1,,,,,,,,,,,1,1,1,,No,,,,
+25,10/11/1990,PREGNANCY,,Hispanic and Latino,LOW,31/01/2022,28,7/11/2022,1,,history_std,,psychiatric,other_past_medical_history,,,,,,0,,5,,Yes,,4,,
+26,26/01/1995,POSTPARTUM,,Hispanic and Latino,MEDIUM,6/9/2021,28,13/06/2022,1,,,,alcohol,tobacco,uterine_anomaly,other_past_medical_history,,,,1,1,3,,No,,,,
+27,2/12/2002,POSTPARTUM,obesity,Hispanic and Latino,LOW,27/12/2021,28,3/10/2022,1,,,,hypertension,,,,,,,1,1,1,,No,,,,
+28,13/06/1999,POSTPARTUM,obesity,Black or African,MEDIUM,14/08/2021,28,20/05/2022,1,,,,obesity,,,,,,,1,1,1,0,No,0,0,0,0
+29,15/02/1992,POSTPARTUM,,Non Hispanic White,LOW,20/11/2021,28,27/08/2022,1,,history_std,,thyroid,gyn_surgery,psychiatric,street_drugs,pulmonary_tb_asthma,history_of_abnormal_pap,,3,1,4,,No,,,,
+30,12/5/1993,PREGNANCY,,Asian,LOW,30/11/2021,28,6/9/2022,1,,,,psychiatric,street_drugs,other_past_medical_history,,,,,2,,5,,No,,1,1,
+31,20/11/1997,POSTPARTUM,obesity,Hispanic and Latino,LOW,21/08/2021,28,28/05/2022,1,,,,obesity,diabetes,,,,,,1,1,1,,No,,,,
+32,28/02/1991,PREGNANCY,,Non Hispanic White,LOW,3/2/2022,28,10/11/2022,1,,chicken_pox,,allergies,,,,,,,,,2,,Yes,,,1,
+35,9/9/1986,PREGNANCY,,Black or African,LOW,3/9/2021,28,10/6/2022,1,,history_std,other_infection_history,alcohol,gyn_surgery,psychiatric,heart_disease,history_of_abnormal_pap,other_past_medical_history,,0,,1,,No,,,,
+36,16/09/1994,PREGNANCY,,Asian,MEDIUM,26/07/2021,28,2/5/2022,1,,,,diabetes,,,,,,,1,,2,,No,,,,
+37,25/07/1985,POSTPARTUM,obesity,Hispanic and Latino,LOW,29/08/2021,28,5/6/2022,1,,gen_herp,,alcohol,obesity,tobacco,diabetes,psychiatric,street_drugs,,1,1,1,,No,,,,
+38,7/5/1991,POSTPARTUM,,Hispanic and Latino,LOW,26/09/2021,28,3/7/2022,1,,,,,,,,,,,1,1,1,,No,,,,
+39,11/4/1994,POSTPARTUM,obesity,Black or African,LOW,26/09/2021,28,3/7/2022,1,chk_scd,gen_herp,,obesity,,,,,,,1,1,2,,No,,,1,
+40,2/4/1989,PREGNANCY,obesity,Hispanic and Latino,HIGH,16/12/2021,28,22/09/2022,1,,chicken_pox,,obesity,diabetes,,,,,,,2,2,,No,,,,
+43,23/12/1984,POSTPARTUM,,Hispanic and Latino,LOW,18/09/2021,28,25/06/2022,1,,,,obesity,hypertension,,,,,,2,1,2,,Yes,,,,
+44,11/10/2004,PREGNANCY,,Hispanic and Latino,LOW,9/9/2021,28,16/06/2022,1,,,,,,,,,,,1,,2,,No,,,,
+45,8/5/2003,PREGNANCY,,Non Hispanic White,LOW,2/10/2021,28,9/7/2022,1,chk_scd,history_std,,history_of_blood_transfs,other_past_medical_history,,,,,,1,1,2,,No,,,,
+46,20/12/1999,POSTPARTUM,,Hispanic and Latino,LOW,21/10/2021,28,28/07/2022,1,,chicken_pox,,psychiatric,,,,,,,1,1,1,,No,,,,
+47,9/6/1989,PREGNANCY,,Hispanic and Latino,LOW,19/11/2021,28,26/08/2022,1,chk_repl,,,alcohol,gyn_surgery,psychiatric,other_past_medical_history,,,,1,,3,,No,,,,
+49,7/12/1994,PREGNANCY,obesity,Hispanic and Latino,LOW,5/9/2021,28,12/6/2022,1,,,,obesity,gyn_surgery,,,,,,1,1,2,,No,,,,
+50,20/08/1990,POSTPARTUM,obesity,Non Hispanic White,LOW,15/02/2022,28,22/11/2022,1,,,,obesity,diabetes,allergies,psychiatric,pulmonary_tb_asthma,other_past_medical_history,,1,1,1,,No,,,,
+52,23/02/1984,POSTPARTUM,,Black or African,LOW,20/03/2022,28,25/12/2022,1,,,,drug_allergy_list,,,,,,,4,1,5,,No,,,,
+53,22/11/1988,PREGNANCY,obesity,Hispanic and Latino,LOW,26/01/2022,28,2/11/2022,1,,chicken_pox,,obesity,diabetes,gyn_surgery,hypertension,drug_allergy_list,,,1,1,2,,No,1,,,
+60,8/10/1985,POSTPARTUM,obesity,Others,LOW,5/11/2021,28,12/8/2022,1,,history_std,,obesity,diabetes,,,,,,6,5,6,,Yes,,,,
+63,25/10/1990,POSTPARTUM,,Black or African,HIGH,30/11/2021,28,6/9/2022,1,,chicken_pox,,tobacco,psychiatric,hypertension,street_drugs,drug_allergy_list,auto_immune_disorder,,5,1,8,,No,,,,
+64,6/6/1995,PREGNANCY,obesity,Others,LOW,27/02/2022,28,4/12/2022,1,,,,,,,,,,,1,1,2,,Yes,1,,,
+66,12/9/1989,PREGNANCY,obesity,Hispanic and Latino,HIGH,15/04/2022,28,20/01/2023,1,,,,obesity,gyn_surgery,,,,,,1,1,4,,Yes,,,1,
+67,27/12/1993,POSTPARTUM,,Black or African,HIGH,9/10/2021,28,16/07/2022,1,,gen_herp,,obesity,tobacco,gyn_surgery,hypertension,kidney_disease_uti,history_of_abnormal_pap,,1,1,3,0,No,0,2,0,0
+68,21/12/1987,PREGNANCY,,Others,LOW,4/4/2022,28,9/1/2023,1,,gen_herp,history_std,obesity,gyn_surgery,,,,,,1,,3,,No,,,,
+69,2/1/1983,POSTPARTUM,obesity,Black or African,HIGH,7/10/2021,28,14/07/2022,1,,,,obesity,,,,,,,3,3,3,,No,,,,
+72,3/1/1994,PREGNANCY,obesity,Hispanic and Latino,LOW,24/02/2022,28,1/12/2022,1,,,,obesity,gyn_surgery,relevant_family_history,operation_hospitalizations,,,,1,1,2,,Yes,,,,
+73,25/05/1983,PREGNANCY,obesity,Black or African,LOW,2/3/2022,28,7/12/2022,1,,history_std,,obesity,gyn_surgery,drug_allergy_list,neurologic_epilepsy,history_of_abnormal_pap,history_of_blood_transfs,,7,7,10,,Yes,1,,1,
+74,17/04/1989,PREGNANCY,obesity,Hispanic and Latino,LOW,13/04/2022,28,18/01/2023,1,,,,obesity,hypertension,pulmonary_tb_asthma,history_of_abnormal_pap,other_past_medical_history,,,1,1,3,,No,,,1,
+75,19/08/1989,POSTPARTUM,obesity,Non Hispanic White,LOW,11/3/2022,28,16/12/2022,1,,,,alcohol,obesity,tobacco,street_drugs,,,,4,1,4,,No,,,,
+76,26/08/1997,POSTPARTUM,obesity,Black or African,LOW,14/11/2021,28,21/08/2022,1,chk_repl,history_std,,obesity,diabetes,gyn_surgery,,,,,2,3,5,,No,2,,1,
+77,27/05/1980,POSTPARTUM,obesity,Others,LOW,1/12/2021,28,7/9/2022,1,chk_repl,history_std,,obesity,thyroid,gyn_surgery,psychiatric,history_of_abnormal_pap,,,2,2,4,,Yes,,,2,
+78,7/4/1990,POSTPARTUM,,Hispanic and Latino,LOW,20/04/2022,28,25/01/2023,1,,history_std,,alcohol,obesity,tobacco,psychiatric,hypertension,heart_disease,,2,1,3,,Yes,,,,
+79,23/02/1993,PREGNANCY,,Non Hispanic White,LOW,2/11/2021,28,9/8/2022,1,,,,other_past_medical_history,,,,,,,0,0,1,0,No,0,0,0,0
+80,11/9/2000,POSTPARTUM,obesity,Others,LOW,22/12/2021,28,28/09/2022,1,,,,obesity,pulmonary_tb_asthma,history_of_abnormal_pap,operation_hospitalizations,,,,2,1,3,,No,,,,
+86,23/12/1983,POSTPARTUM,obesity,Hispanic and Latino,HIGH,23/05/2022,28,27/02/2023,1,,,,obesity,diabetes,gyn_surgery,hypertension,,,,1,1,2,,Yes,,,1,
+87,1/6/1993,PREGNANCY,obesity,Others,LOW,28/03/2022,28,2/1/2023,1,,history_std,,obesity,gyn_surgery,hypertension,street_drugs,relevant_family_history,,,1,1,2,,Yes,,,,
+88,25/08/1998,POSTPARTUM,obesity,Hispanic and Latino,LOW,12/3/2022,28,17/12/2022,1,,,,obesity,thyroid,gyn_surgery,relevant_family_history,,,,2,2,3,,No,,,1,
+89,24/01/1976,PREGNANCY,obesity,Black or African,LOW,10/4/2022,28,15/01/2023,1,,,,obesity,gyn_surgery,hypertension,street_drugs,history_of_abnormal_pap,relevant_family_history,,5,9,13,,Yes,4,,3,
+90,22/09/1991,PREGNANCY,obesity,Others,LOW,10/1/2022,28,17/10/2022,1,,gen_herp,,obesity,diabetes,street_drugs,pulmonary_tb_asthma,history_of_abnormal_pap,other_past_medical_history,,5,5,7,0,No,,1,0,0
+91,14/06/1990,POSTPARTUM,obesity,Asian,LOW,4/12/2021,28,10/9/2022,1,,,,obesity,thyroid,uterine_anomaly,other_past_medical_history,,,,2,2,2,0,Yes,0,0,0,0
+92,7/6/1985,POSTPARTUM,obesity,Others,LOW,23/12/2021,28,29/09/2022,1,,,,obesity,gyn_surgery,drug_allergy_list,other_past_medical_history,,,,3,3,4,,No,,,1,
+93,1/4/1992,PREGNANCY,obesity,Others,LOW,24/11/2021,28,31/08/2022,1,RHNegative,,,obesity,gyn_surgery,hypertension,pulmonary_tb_asthma,relevant_family_history,other_past_medical_history,,0,,1,,Yes,,,,
+94,21/04/1994,PREGNANCY,obesity,Hispanic and Latino,LOW,15/10/2021,28,22/07/2022,1,,gen_herp,,obesity,gyn_surgery,relevant_family_history,operation_hospitalizations,,,,2,2,3,,No,,,,
+95,12/8/1984,POSTPARTUM,obesity,Black or African,LOW,12/6/2022,28,19/03/2023,1,,,,obesity,hypertension,,,,,,2,1,2,,No,,,,
+96,29/05/1978,MISCARRIAGE,,Others,LOW,8/6/2022,28,15/03/2023,1,,,,diabetes,gyn_surgery,pulmonary_tb_asthma,,,,,,0,4,,Yes,,,3,
+104,12/7/2000,PREGNANCY,obesity,Hispanic and Latino,LOW,10/4/2022,28,15/01/2023,1,"chk_repl,problems_or_plans",,,obesity,,,,,,,0,0,2,0,Yes,0,0,1,0
+105,1/3/1997,PREGNANCY,obesity,Black or African,LOW,26/05/2022,28,2/3/2023,1,med_slm,gen_herp,history_std,alcohol,obesity,history_of_abnormal_pap,,,,,0,0,1,0,Yes,0,0,0,0
+106,5/7/1987,POSTPARTUM,,Asian,LOW,17/05/2022,28,21/02/2023,1,,,,diabetes,other_past_medical_history,,,,,,2,2,2,0,Yes,0,0,0,0
+107,28/02/1987,POSTPARTUM,obesity,Hispanic and Latino,LOW,1/5/2022,28,5/2/2023,1,chk_repl,,,obesity,diabetes,gyn_surgery,,,,,5,5,6,0,Yes,0,0,1,0
+108,26/03/1981,POSTPARTUM,obesity,Hispanic and Latino,LOW,18/05/2022,28,22/02/2023,1,,,,obesity,allergies,gyn_surgery,operation_hospitalizations,other_past_medical_history,,,5,6,9,,No,1,,3,
+114,12/9/1992,PREGNANCY,,Non Hispanic White,LOW,1/8/2022,28,8/5/2023,1,chk_repl,history_std,,obesity,thyroid,tobacco,street_drugs,relevant_family_history,history_of_blood_transfs,,0,0,3,0,No,1,0,1,0
+117,27/04/1995,PREGNANCY,,Hispanic and Latino,LOW,23/08/2022,28,30/05/2023,1,,,,allergies,drug_allergy_list,relevant_family_history,,,,,2,2,3,,No,,,,
+118,21/04/1992,PREGNANCY,obesity,Black or African,LOW,8/7/2022,28,14/04/2023,1,,,,hypertension,pulmonary_tb_asthma,,,,,,2,2,4,,Yes,,,1,
+123,22/10/1986,PREGNANCY,obesity,Non Hispanic White,LOW,10/6/2022,28,17/03/2023,1,RHNegative,hep_b,chicken_pox,Covid,obesity,drug_allergy_list,advanced_maternal_age,,,,3,3,5,,No,2,,1,
+128,5/4/1996,PREGNANCY,obesity,Others,LOW,30/03/2022,28,4/1/2023,1,chk_mda,history_std,,obesity,allergies,pulmonary_tb_asthma,history_of_abnormal_pap,other_past_medical_history,,,0,0,1,0,Yes,0,0,0,0
+129,18/02/1989,PREGNANCY,,Hispanic and Latino,LOW,1/6/2022,28,8/3/2023,1,,,,obesity,drug_allergy_list,,,,,,2,2,3,0,No,0,0,0,0
+130,14/05/1997,PREGNANCY,obesity,,LOW,27/08/2022,28,3/6/2023,1,,,,obesity,hypertension,pulmonary_tb_asthma,,,,,2,2,3,,Yes,,,,
+134,27/10/1994,POSTPARTUM,,Hispanic and Latino,LOW,22/05/2022,28,26/02/2023,1,,,,psychiatric,relevant_family_history,,,,,,1,1,3,,Yes,,1,1,
+137,12/12/1995,POSTPARTUM,,Others,LOW,1/5/2022,28,5/2/2023,1,,,,gyn_surgery,psychiatric,relevant_family_history,other_past_medical_history,,,,2,2,3,,No,1,1,,
+154,7/1/1996,PREGNANCY,,Hispanic and Latino,LOW,20/08/2022,28,27/05/2023,1,,,,diabetes,hypertension,pulmonary_tb_asthma,relevant_family_history,,,,0,0,1,0,Yes,0,0,0,0
+156,15/04/1997,PREGNANCY,,Non Hispanic White,LOW,20/04/2022,28,25/01/2023,1,,,,obesity,relevant_family_history,,,,,,0,0,1,0,Yes,0,0,0,0
+157,28/07/1987,PREGNANCY,obesity,Hispanic and Latino,LOW,29/07/2022,28,5/5/2023,1,,,,breast,tobacco,psychiatric,drug_allergy_list,pulmonary_tb_asthma,relevant_family_history,,1,0,2,0,Yes,0,0,0,0
+158,22/06/1993,PREGNANCY,,Asian,LOW,5/5/2022,28,26/02/2023,1,,,,psychiatric,relevant_family_history,,,,,,1,1,2,0,Yes,0,0,0,0
+164,28/08/2000,PREGNANCY,,Black or African,LOW,29/06/2022,28,5/4/2023,1,,,,obesity,diabetes,,,,,,0,0,1,0,Yes,0,0,0,0
+165,17/05/1981,PREGNANCY,obesity,Black or African,LOW,24/11/2022,28,31/08/2023,1,,,,obesity,infertility,hypertension,,,,,2,2,3,0,No,0,0,0,0
+177,14/05/1992,PREGNANCY,obesity,Black or African,LOW,1/7/2022,28,7/4/2023,1,,,,obesity,diabetes,history_of_blood_transfs,,,,,1,1,3,,No,,,1,
+178,23/06/1987,PREGNANCY,,Black or African,LOW,24/08/2022,28,31/05/2023,1,,,,obesity,hypertension,other_past_medical_history,,,,,2,2,3,0,Yes,0,0,0,0
+191,16/05/1990,PREGNANCY,,Black or African,LOW,7/8/2022,28,14/05/2023,1,,,,obesity,diabetes,,,,,,5,5,7,0,Yes,0,0,1,0
+192,15/01/1987,PREGNANCY,obesity,Black or African,LOW,25/12/2022,28,1/10/2023,1,,,,hypertension,relevant_family_history,,,,,,,3,6,,No,,,2,
+193,16/12/1983,PREGNANCY,,Asian,LOW,24/09/2022,28,1/7/2023,1,,,,hypertension,,,,,,,2,2,3,0,Yes,0,0,0,0
+194,12/1/1981,PREGNANCY,obesity,Non Hispanic White,LOW,9/7/2022,28,15/04/2023,1,,,,obesity,tobacco,hypertension,drug_allergy_list,history_of_abnormal_pap,,,0,0,4,0,Yes,0,2,1,0
+195,28/04/1986,PREGNANCY,obesity,Hispanic and Latino,LOW,26/07/2022,28,2/5/2023,1,,,,obesity,hypertension,,,,,,0,0,1,0,Yes,0,0,0,0
+196,11/11/1995,PREGNANCY,,Asian,LOW,30/11/2022,28,6/9/2023,1,,,,hypertension,operation_hospitalizations,,,,,,1,1,3,,Yes,,,,
+197,27/01/1981,PREGNANCY,obesity,Others,LOW,26/08/2022,28,2/6/2023,1,,,,diabetes,operation_hospitalizations,,,,,,1,1,3,,Yes,,,,
+208,30/01/1990,PREGNANCY,diabetes,Mixed,LOW,16/03/2023,28,21/12/2023,1,,,,diabetes,,,,,,,1,1,2,,No,,,,
+210,4/7/1981,PREGNANCY,obesity,Others,LOW,31/01/2023,28,7/11/2023,1,,,,obesity,psychiatric,hypertension,other_allergy_list,hepatitis_liver_disease,,,2,1,3,,Yes,,,,
+211,18/11/1983,PREGNANCY,obesity,Non Hispanic White,LOW,15/03/2023,28,20/12/2023,1,,,,obesity,thyroid,hypertension,,,,,,,2,,Yes,,1,,
