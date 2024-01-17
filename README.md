@@ -3,12 +3,12 @@
 ## Team: Baby-in-Nine
 ## Team Members:
 
-## Yashwanth Reddy Gouni
-## Srikar Jindam
-## Shubham Khaladkar
-## Arthi Kotha
-## Prashant Vajjala Venkata Naga
-## Anish Reddy Vakiti
+ Yashwanth Reddy Gouni
+ Srikar Jindam
+ Shubham Khaladkar
+ Arthi Kotha
+ Prashant Vajjala Venkata Naga
+ Anish Reddy Vakiti
 
 ## Problem Statement
 Comorbid conditions can result in significant challenges during pregnancy, causing harm to both the mother and baby. Early detection of potential complications using AI models based on historical data can help minimize these difficulties by allowing prompt and appropriate interventions to be implemented complications.
